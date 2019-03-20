@@ -1,0 +1,3 @@
+int isAVL (BSTree t) { 
+    
+ }
